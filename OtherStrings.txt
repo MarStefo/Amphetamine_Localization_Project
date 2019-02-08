@@ -46,542 +46,904 @@ AMPHETAMINE CREATOR
 ----------------------------------------- 001
 @"Migrate"
 
+@"Migra"
+
 ----------------------------------------- 002
 @"Reset"
 
+@"Resetta"
+
 ----------------------------------------- 003
+@"Backup"
+
 @"Backup"
 
 ----------------------------------------- 004
 @"Quit"
 
+@"Esci"
+
 ----------------------------------------- 005
 @"Welcome to Amphetamine⁴"
+
+@"Benvenuto in Amphetamine⁴"
 
 ----------------------------------------- 006
 @"Due to all of the new awesomeness in Amphetamine⁴, your Amphetamine³ preferences must either be migrated or reset. If you choose Migrate, Amphetamine⁴ will attempt to translate all of your previous preferences (including Triggers, Drive Alive settings, icons, durations, hotkeys, etc.) to the new Amphetamine⁴ format.\n\nOf course, there is some risk with this operation. Migrate with caution. If you absolutely cannot lose your Amphetamine³ preferences, please choose Backup before trying to Migrate.\n\nIf you'd rather start fresh (good for you!), choose Reset. If you're seeing this message unexpectedly, just click Reset."
 
+@"A causa di tutte le meravigliose novità di Amphetamine⁴, le tue preferenze di Amphetamine³ devono essere migrate o resettate. Se scegli Migra, Amphetamine⁴ tenterà di trasferire tutte le tue vecchie preferenze (inclusi i Triggers, impostazioni di Drive Alive, icone, durata, tasti di scelta rapida, ecc.) al nuovo formato di Amphetamine⁴.\n\nQuesta operazione non è priva di rischi. Migra con cautela. Se non vuoi assolutamente perdere le impostazioni di Amphetamine³, scegli Backup prima di migrare.\n\nSe invece preferisci partire da zero (buon per te!), scegli Reset. Se invece non ti aspetti di vedere questo messaggio, clicca semplicemente su Reset."
+
 ----------------------------------------- 007
 @"Amphetamine³ preferences saved"
+
+@"Preferenze di Amphetamine³ salvate"
 
 ----------------------------------------- 008
 @"You may now migrate or reset"
 
+@"Ora puoi migrare o resettare"
+
 ----------------------------------------- 009
 @"Default Duration"
+
+@"Durata di Default"
 
 ----------------------------------------- 010
 @"This preference utilizes the Default Duration (Preferences → Sessions → Default Duration)."
 
+@"Questa impostazione utilizza la Durata di Default (Preferenze → Sessioni → Durata di Default)."
+
 ----------------------------------------- 011
 @"Current Session Details:"
+
+@"Dettagli della sessione corrente:"
 
 ----------------------------------------- 012
 @"Start New Session:"
 
+@"Inizia una nuova sessione:"
+
 ----------------------------------------- 013
 @"End Session"
+
+@"Termina la sessione"
 
 ----------------------------------------- 014
 @"Continue Session"
 
+@"Continua la sessione"
+
 ----------------------------------------- 015
 @"Your Mac's battery is %@."
+
+@"La batteria del tuo Mac è al %@."
 
 ----------------------------------------- 016
 @"Your Mac's battery is below %@."
 
+@"La batteria del tuo Mac è inferiore a %@."
+
 ----------------------------------------- 017
 @"Would you like to continue this session?"
+
+@"Vuoi continuare questa sessione?"
 
 ----------------------------------------- 018
 @"Not connected to AC power adapter"
 
+@"Non connesso ad un adattatore di alimentazione CA"
+
 ----------------------------------------- 019
 @"Battery charge is below %li%%"
+
+@"La carica della batteria è inferiore del %li%%"
 
 ----------------------------------------- 020
 @"Session has ended"
 
+@"La sessione è terminata"
+
 ----------------------------------------- 021
 @"Battery is not connected to power adapter"
+
+@"La batteria non è connessa ad un adattatore di alimentazione"
 
 ----------------------------------------- 022
 @"Battery charge is below %li%%"
 
+@"La carica della batteria è inferiore del %li%%"
+
 ----------------------------------------- 023
 @"Session has ended"
+
+@"La sessione è terminata"
 
 ----------------------------------------- 024
 @"Power adapter reconnected"
 
+@"L'adattatore di corrente è stato ricollegato"
+
 ----------------------------------------- 025
 @"Amphetamine is keeping your Mac awake"
+
+@"Amphetamine sta tenendo sveglio il tuo Mac"
 
 ----------------------------------------- 026
 @"Power adapter was reconnected"
 
+@"L'adattatore di corrente è stato ricollegato"
+
 ----------------------------------------- 027
 @"Display sleep is allowed"
+
+@"Lo stato di Stop per il monitor è consentito"
 
 ----------------------------------------- 028
 @"Your Mac and display will not sleep"
 
+@"Il tuo Mac e il monitor non andranno in stato di Stop"
+
 ----------------------------------------- 029
 @"Amphetamine is keeping your Mac awake"
+
+@"Amphetamine sta tenendo sveglio il tuo Mac"
 
 ----------------------------------------- 030
 @"Next reminder will be sent in %li minutes"
 
+@"Il prossimo promemoria verrà inviato tra %li minuti"
+
 ----------------------------------------- 031
 @"Next reminder will be sent in %li minute"
+
+@"Il prossimo promemoria verrà inviato tra %li minuti"
 
 ----------------------------------------- 031
 @"Are you sure you want to reset Amphetamine's preferences?."
 
+@"Vuoi davvero resettare le preferenze di Amphetamine?."
+
 ----------------------------------------- 032
 @"All preferences will be reset to their default values, and you will lose all Trigger, Drive Alive configurations."
+
+@"Tutte le preferenze verranno resettate al loro valore predefinito e perderai tutte le configurazioni dei Trigger e Drive Alive."
 
 ----------------------------------------- 033
 @"Continue"
 
+@"Continua"
+
 ----------------------------------------- 034
 @"Cancel"
+
+@"Annulla"
 
 ----------------------------------------- 035
 @"Other Time: %lih %lim"
 
+@"Altro tempo: %lih %lim"
+
 ----------------------------------------- 036
 @"New session at app launch"
+
+@"Nuova sessione all'avvio dell'applicazione"
 
 ----------------------------------------- 037
 @"not connected to AC power adapter"
 
+@"non connesso ad un adattatore di alimentazione CA"
+
 ----------------------------------------- 038
 @"End non-Trigger sessions when:"
+
+@"Termina le sessioni non Trigger quando:"
 
 ----------------------------------------- 039
 @"End non-Trigger sessions if charge (%) is below:"
 
+@"Termina le sessioni non Trigger se la carica (%) è inferiore:"
+
 ----------------------------------------- 040
 @"Built-in Speakers"
+
+@"Altoparlanti integrati"
 
 ----------------------------------------- 041
 @"Headphones (wired, 3.5mm)"
 
+@"Cuffie (via cavo, 3.5mm)"
+
 ----------------------------------------- 041
 @"Session has ended"
+
+@"La sessione è terminata"
 
 ----------------------------------------- 042
 @"App %@ is no longer running"
 
+@"L'applicazione %@ non è più in esecuzione"
+
 ----------------------------------------- 043
 @"Next"
+
+@"Prossimo"
 
 ----------------------------------------- 044
 @"Close"
 
+@"Chiudi"
+
 ----------------------------------------- 045
 @"Custom Images"
+
+@"Icone personalizzate"
 
 ----------------------------------------- 046
 @"Current Session Details:\n"
 
+@"Dettagli della sessione corrente:\n"
+
 ----------------------------------------- 047
 @"Manual Activation"
+
+@"Attivazione manuale"
 
 ----------------------------------------- 048
 @"New features in Drive Alive require the following information...\n\nIs the volume/drive named '%@' a network connected volume?\" buttons {\"YES\", \"NO\"} with title \"Amphetamine : Drive Alive\"
 
+@"Le nuove caratteristiche di Drive Alive richiedono le seguenti informazioni...\n\nIl volume/unità denominata '%@' è un volume network connesso?\" buttons {\"SI\", \"NO\"} with title \"Amphetamine : Drive Alive\"
+
 ----------------------------------------- 049
 @"YES"
 
+@"SI"
+
 ----------------------------------------- 050
+@"NO"
+
 @"NO"
 
 ----------------------------------------- 051
 @"Drive Alive is not enabled"
 
+@"Drive Alive non è abilitato"
+
 ----------------------------------------- 052
 @"No drives are configured"
+
+@"Non è configurato alcun drive"
 
 ----------------------------------------- 053
 @" [ alive ]"
 
+@" [ vivo ]"
+
 ----------------------------------------- 054
 @" [ dead ]"
+
+@" [ morto ]"
 
 ----------------------------------------- 055
 @" [ disconnected ]"
 
+@" [ disconnesso ]"
+
 ----------------------------------------- 056
 @"Drive Alive Details:\n"
+
+@"Dettagli di Drive Alive:\n"
 
 ----------------------------------------- 057
 @"Disable All Triggers"
 
+@"Disabilita tutti i Trigger"
+
 ----------------------------------------- 058
 @"Dismiss"
+
+@"Ignora"
 
 ----------------------------------------- 059
 @"A Trigger session is running."
 
+@"Una sessione Trigger è in esecuzione."
+
 ----------------------------------------- 060
 @"Disable all Triggers automatically next time"
+
+@"Disabilita tutti i Triggers automaticamente la prossima volta"
 
 ----------------------------------------- 061
 @"Disable indefinitely"
 
+@"Disabilita indefinitamente"
+
 ----------------------------------------- 062
 @"Disable for 5 minutes"
+
+@"Disabilita per 5 minuti"
 
 ----------------------------------------- 063
 @"Disable for 10 minutes"
 
+@"Disabilita per 10 minuti"
+
 ----------------------------------------- 064
 @"Disable for 15 minutes"
+
+@"Disabilita per 15 minuti"
 
 ----------------------------------------- 065
 @"Disable for 30 minutes"
 
+@"Disabilita per 30 minuti"
+
 ----------------------------------------- 066
 @"Disable for 1 hour"
+
+@"Disabilita per 1 ora"
 
 ----------------------------------------- 067
 @"Ending this session requires disabling the following Trigger:\n\n%@\n\nYou can disable all Triggers using the button below, or visit Amphetamine's Preferences to disable this specific Trigger. You can always re-enable all Triggers from Amphetamine's Preferences later.\n\nChoose Dismiss to leave all Triggers enabled."
 
+@"Terminare questa sessione richiede la disabilitazione del seguente Trigger:\n\n%@\n\nPuoi disabilitare tutti i Trigger facendo clic sul pulsante sottostante oppure visitare le preferenze di Amphetamine per disabilitare questo specifico Trigger. Puoi sempre tornare ad abilitare tutti i Trigger nelle preferenze di Amphetamine.\n\nScegli Ignora per lasciare tutti i Trigger abilitati."
+
 ----------------------------------------- 068
 @"Timed session has ended"
+
+@"La sessione a tempo è terminata"
 
 ----------------------------------------- 069
 @"End time (%@) has passed"
 
+@"Il tempo di fine (%@) è arrivato"
+
 ----------------------------------------- 070
 @"Your Mac will sleep on its normal schedule"
+
+@"Il tuo Mac andrà in Stop secondo la normale programmazione"
 
 ----------------------------------------- 071
 @"Timed session has ended"
 
+@"La sessione a tempo è terminata"
+
 ----------------------------------------- 072
 @"Session duration has elapsed"
+
+@"La durata della sessione è scaduta"
 
 ----------------------------------------- 073
 @"Your Mac will sleep on its normal schedule"
 
+@"Il tuo Mac andrà in Stop secondo la normale programmazione"
+
 ----------------------------------------- 074
 @"None selected"
+
+@"Nessuno selezionato"
 
 ----------------------------------------- 075
 @" (when frontmost)"
 
+@" (quando in primo piano)"
+
 ----------------------------------------- 076
 @"Sun, "
+
+@"Dom, "
 
 ----------------------------------------- 077
 @"Mon, "
 
+@"Lun, "
+
 ----------------------------------------- 078
 @"Tue, "
+
+@"Mar, "
 
 ----------------------------------------- 079
 @"Wed, "
 
+@"Mer, "
+
 ----------------------------------------- 080
 @"Thu, "
+
+@"Gio, "
 
 ----------------------------------------- 081
 @"Fri, "
 
+@"Ven, "
+
 ----------------------------------------- 082
 @"Sat, "
+
+@"Sab, "
 
 ----------------------------------------- 083
 @"No days selected "
 
+@"Nessun giorno selezionato "
+
 ----------------------------------------- 084
 @"Battery @ %i%% charge"
+
+@"Carica della batteria @ %i%%"
 
 ----------------------------------------- 085
 @", or AC adapter"
 
+@", o adattatore CA"
+
 ----------------------------------------- 086
 @"Only when AC adapter is connected"
+
+@"Solo quando l'adattatore CA è collegato"
 
 ----------------------------------------- 087
 @"Version "
 
+@"Versione "
+
 ----------------------------------------- 088
 @" is running"
+
+@" è in esecuzione"
 
 ----------------------------------------- 089
 @"Something went wrong. 😞"
 
+@"Qualcosa è andato storto. 😞"
+
 ----------------------------------------- 090
 @"You may have not selected an app, or the app you selected may have quit. Please select a different app or relaunch the one you selected previously."
+
+@"Non hai selezionato un applicazione o l'applicazione che hai selezionato è stata chiusa. Seleziona un applicazione differente o avvia nuovamente quella che avevi selezionato in precedenza."
 
 ----------------------------------------- 091
 @"Are you the one who knocks?"
 
+@"Sei tu quello che bussa?"
+
 ----------------------------------------- 092
 @"Congratulations! You have unlocked a new menu bar image and notification sound! Visit Amphetamine's Preferences to see your new image and sound."
+
+@"Congratulazioni! Hai sbloccato una nuova icona della barra dei menu e suono di notifica! Visita le preferenze di Amphetamine per vedere la nuova icona e suono."
 
 ----------------------------------------- 093
 @"End Current Session"
 
+@"Termina la sessione corrente"
+
 ----------------------------------------- 094
+@"OK"
+
 @"OK"
 
 ----------------------------------------- 095
 @"No IP Addresses Found."
 
+@"Nessun indirizzo IP rilevato."
+
 ----------------------------------------- 096
 @"Double-check whether your Mac is connected to your local network."
+
+@"Verifica se il tuo Mac è connesso alla tua rete locale."
 
 ----------------------------------------- 097
 @"%.0f%% charged"
 
+@"%.0f%% caricato"
+
 ----------------------------------------- 098
 @", or..."
+
+@", o..."
 
 ----------------------------------------- 099
 @"Trigger session has started"
 
+@"Una sessione Trigger è iniziata"
+
 ----------------------------------------- 100
 @"Trigger session has ended"
+
+@"La sessione Trigger è terminata"
 
 ----------------------------------------- 101
 @"• Trigger name not provided.\n\n"
 
+@"• Non è stato fornito alcun nome del Trigger.\n\n"
+
 ----------------------------------------- 102
 @"• Wi-Fi criterion is enabled but network name field is empty.\n\n"
+
+@"• Il criterio Wi-Fi è abilitato ma il campo Nome network è vuoto.\n\n"
 
 ----------------------------------------- 103
 @"• IP Address criterion is enabled but address field is empty.\n\n"
 
+@"• Il criterio Indirizzo IP è abilitato ma il campo indirizzo è vuoto.\n\n"
+
 ----------------------------------------- 104
 @"• VPN Service criterion is enabled but no service name was found.\n\n"
+
+@"• Il criterio Servizio VPN è abilitato ma nessun nome di servizio è stato trovato.\n\n"
 
 ----------------------------------------- 105
 @"• IP Address criterion is enabled but one or more address fields are empty.\n\n"
 
+@"• Il criterio Indirizzo IP è abilitato ma uno o più campi indirizzo sono vuoti.\n\n"
+
 ----------------------------------------- 106
 @"• App criterion is enabled but no app was selected.\n\n"
+
+@"• Il criterio Applicazione è abilitato ma nessuna applicazione è stata selezionata.\n\n"
 
 ----------------------------------------- 107
 @"• Schedule criterion is enabled but no days were selected.\n\n"
 
+@"• Il criterio Programma è abilitato ma nessun giorno è stato selezionato.\n\n"
+
 ----------------------------------------- 108
 @"• Display criterion is enabled but count field is empty.\n\n"
+
+@"• Il criterio Monitor è abilitato ma il campo del conteggio è vuoto.\n\n"
 
 ----------------------------------------- 109
 @"• Drive criterion is enabled but no drive is selected.\n\n"
 
+@"• Il criterio Volume è abilitato ma nessun volume è stato selezionato.\n\n"
+
 ----------------------------------------- 110
 @"• USB Device criterion is enabled but no device is selected.\n\n"
+
+@"• Il criterio Dispositivo USB è abilitato ma nessun dispositivo è stato selezionato.\n\n"
 
 ----------------------------------------- 111
 @"• Bluetooth Device criterion is enabled but no device is selected.\n\n"
 
+@"• Il criterio Dispositivo Bluetooth è abilitato ma nessun dispositivo è stato selezionato.\n\n"
+
 ----------------------------------------- 112
 @"• No criterion was selected/enabled.\n\n"
+
+@"• Nessun criterio è stato selezionato o abilitato.\n\n"
 
 ----------------------------------------- 113
 @"Uh-oh! Something went horribly wrong."
 
+@"Oh oh! Qualcosa è andato storto."
+
 ----------------------------------------- 114
 @"Trigger \"%@\" can't be edited right now."
+
+@"Il Trigger \"%@\" non può essere modificato ora."
 
 ----------------------------------------- 115
 @"The VPN service used with this Trigger is not currently active.\n\nPlease start VPN service \"%@\" and try again."
 
+@"Il servizio VPN usato da questo Trigger non è attualmente attivo.\n\nAvvia il servizio VPN \"%@\" e riprova."
+
 ----------------------------------------- 116
 @"The app used with this Trigger is not currently running.\n\nPlease launch \"%@\" and try again."
+
+@"L'applicazione in uso da questo Trigger non è attualmente in esecuzione.\n\nAvvia \"%@\" e riprova."
 
 ----------------------------------------- 117
 @"The volume/drive used with this Trigger is not currently mounted.\n\nPlease mount \"%@\" and try again."
 
+@"Il volume/unità in uso da questo Trigger non è attualmente montato.\n\nMonta \"%@\" e riprova."
+
 ----------------------------------------- 118
 @"The USB device used with this Trigger is not currently connected.\n\nPlease connect \"%@\" and try again."
+
+@"Il dispositivo USB in uso da questo Trigger non è attualmente connesso.\n\nConnetti \"%@\" e riprova."
 
 ----------------------------------------- 119
 @"The Bluetooth device used with this Trigger is no longer paired.\n\nPlease re-pair \"%@\" and try again."
 
+@"Il dispositivo Bluetooth in uso da questo Trigger non è attualmente abbinato.\n\nAbbina nuovamente \"%@\" e riprova."
+
 ----------------------------------------- 120
 @"The audio output used with this Trigger is not currently available.\n\nPlease connect \"%@\" and try again."
+
+@"L'uscita audio in uso da questo Trigger non è attualmente disponibile.\n\nConnetti \"%@\" e riprova."
 
 ----------------------------------------- 121
 @"No days selected "
 
+@"Nessun giorno selezionato "
+
 ----------------------------------------- 122
 @"Battery @ %i%% charge"
+
+@"Carica della batteria @ %i%%"
 
 ----------------------------------------- 123
 @", or AC adapter"
 
+@", o adattatore CA"
+
 ----------------------------------------- 124
 @"Only when AC adapter is connected"
+
+@"Solo quando l'adattatore CA è collegato"
 
 ----------------------------------------- 125
 @"No custom images were found"
 
+@"Non sono state trovate icone personalizzate"
+
 ----------------------------------------- 126
 @"Two custom images (active and inactive) are required. The default images will be used."
+
+@"Sono necessarie due icone personalizzate (attive e non attive). Verranno utilizzate le immagini predefinite."
 
 ----------------------------------------- 127
 @"Images could not be saved"
 
+@"Le immagini non possono essere salvate"
+
 ----------------------------------------- 128
 @"An unknown error occurred. The default images will be used."
+
+@"Si è verificato un errore sconosciuto. Verranno utilizzate le immagini predefinite."
 
 ----------------------------------------- 129
 @"Device disconnected"
 
+@"Dispositivo disconnesso"
+
 ----------------------------------------- 130
 @"No recognized devices attached"
+
+@"Nessun dispositivo riconosciuto collegato"
 
 ----------------------------------------- 131
 @"File is downloading..."
 
+@"Il file sta scaricando..."
+
 ----------------------------------------- 132
 @"File is downloading... (%@ of ?)"
+
+@"Il file sta scaricando... (%@ of ?)"
 
 ----------------------------------------- 133
 @"Successfully reset warnings and dialogs"
 
+@"Reimpostati con successo avvisi e finestre di dialogo"
+
 -----------------------------------------  134
 @"Have a wonderful day."
+
+@"Buona giornata."
 
 ----------------------------------------- 135
 @"Mac woke from sleep"
 
+@"Mac si è svegliato dallo Stop"
+
 ----------------------------------------- 136
 @"Amphetamine is keeping your Mac awake"
+
+@"Amphetamine sta tenendo sveglio il tuo Mac"
 
 ----------------------------------------- 137
 @"Uh-oh."
 
+@"Oh oh."
+
 ----------------------------------------- 138
 @"Something went wrong. Try again, please!"
+
+@"Qualcosa è andato storto. Per favore, prova ancora!"
 
 ----------------------------------------- 139
 @"Choose"
 
+@"Scegli"
+
 ----------------------------------------- 140
 @"Please choose the sounds you would like to add to Amphetamine:"
+
+@"Scegli i suoni che desideri aggiungere per Amphetamine:"
 
 ----------------------------------------- 141
 @"Uh-oh. Something really terrible happened." 
 
+@"Oh oh. Qualcosa è andato storto." 
+
 ----------------------------------------- 142
 @"Your new sounds files may not have been copied properly. Please try again."
+
+@"I tuoi nuovi suoni potrebbero non essere stati copiati correttamente. Per favore, riprova."
 
 ----------------------------------------- 143
 @"Amphetamine has kept your Mac awake for\n%@ %@ %@ %@"
 
+@"Amphetamine ha tenuto sveglio il tuo Mac per\n%@ %@ %@ %@"
+
 ----------------------------------------- 144
 @"%li day "
+
+@"%li giorni "
 
 ----------------------------------------- 145
 @"%li hour "
 
+@"%li ore "
+
 ----------------------------------------- 146
 @"%li minute "
+
+@"%li minuti "
 
 ----------------------------------------- 147
 @"%li second "
 
+@"%li secondi "
+
 ----------------------------------------- 148
 @"days"];
+
+@"giorni"];
 
 ----------------------------------------- 149
 @"hours"];
 
+@"ore"];
+
 ----------------------------------------- 150
 "minutes"];
+
+"minuti"];
 
 ----------------------------------------- 151
 @"seconds"];
 
+@"secondi"];
+
 ----------------------------------------- 152
 @"Quick-Start a Session"
+
+@"Avvio rapido di una sessione"
 
 ----------------------------------------- 153
 @"Launch and Wake Behavior"
 
+@"Comportamento di avvio e di sveglia"
+
 ----------------------------------------- 154
 @"Other"
+
+@"Altro"
 
 ----------------------------------------- 155
 @"Default Duration"
 
+@"Durata predefinita"
+
 ----------------------------------------- 156
 @"End Time Calculation"
+
+@"Calcolo del tempo di fine"
 
 ----------------------------------------- 157
 @"Display Sleep"
 
+@"Monitor in Stop"
+
 ----------------------------------------- 158
 @"Screen Saver"
+
+@"Salvaschermo"
 
 ----------------------------------------- 159
 @"Fast User Switching"
 
+@"Cambio rapido utente"
+
 ----------------------------------------- 160
 @"Battery"
+
+@"Batteria"
 
 ----------------------------------------- 161
 @"AC Power Adapter"
 
+@"Adattatore di alimentazione CA"
+
 ----------------------------------------- 162
 @"Start or End Session"
+
+@"Inizia o Termina una sessione"
 
 ----------------------------------------- 163
 @"Start Session"
 
+@"Inizia una sessione"
+
 ----------------------------------------- 164
 @"End Session"
+
+@"Termina la sessione"
 
 ----------------------------------------- 165
 @"Open Menu"
         
+@"Apri menu"
+        
 ----------------------------------------- 166
 @"Session Reminders"
+
+@"Promemoria di sessione"
 
 ----------------------------------------- 167
 @"Trigger/Scheduled Notifications"
 
+@"Notifiche Trigger/Programmate"
+
 ----------------------------------------- 168
 @"Sound"
+
+@"Suono"
 
 ----------------------------------------- 169
 @"Notification Center"
         
+@"Centro Notifiche"
+        
 ----------------------------------------- 170
 @"Status Image"
+
+@"Icona di stato"
 
 ----------------------------------------- 171
 @"Menu Bar Text"
 
+@"Testo della barra dei menu"
+
 ----------------------------------------- 172
 @"Menu Extras"
+
+@"Menu Extra"
 
 ----------------------------------------- 173
 @"Please choose the drive you would like to keep awake:"
 
+@"Scegli l'unità che desideri mantenere sveglia:"
+
 ----------------------------------------- 174
 @"Some technical details..."
+
+@"Alcuni dettagli tecnici..."
 
 ----------------------------------------- 175
 @"The macOS sandboxing feature prevents Amphetamine from writing to the root directory of the drive that macOS is installed on.\n\nAmphetamine can still keep this drive awake, but will write data to the following path:\n\n%@"
 
+@"La funzionalità sandboxing di macOS nega Amphetamine di scrivere nella directory radice dell'unità dove macOS è installata.\n\nAmphetamine può comunque mantenere l'unità sveglia, ma scriverà i dati nel seguente percorso:\n\n%@"
+
 ----------------------------------------- 176
 @"An error occurred"
+
+@"Si è verificato un errore"
 
 ----------------------------------------- 177
 @"Amphetamine does not have permission to write data to this location. This is most likely due to macOS sandboxing or the volume's formatting.\n\nYou can try the following workaround, but it may not be successful:\n\n• Create a new folder at the root of the volume/drive (you may be asked for the password of and admin user). Then, select that folder for use with Drive Alive."
 
+@"Amphetamine non ha il permesso di scrivere in questo percorso. Può essere dovuto alla funzionalità di sandboxing di macOS o la formattazione del volume.\n\nPuoi provare la seguente soluzione alternativa, ma potrebbe non avere successo:\n\n• Crea una nuova cartella alla radice del volume/unità (potrebbe essere richiesta la password di un utente amministratore). Quindi, seleziona la cartella da utilizzare con Drive Alive."
+
 ----------------------------------------- 178
 @"Network volume detected"
 
+@"Rilevato volume di rete"
+
 ----------------------------------------- 179
 @"The drive/volume you have selected appears to be a network or non-local volume. Please be aware that if the connection to this volume is lost or otherwise unavailable, Amphetamine may become unresponsive."
+
+@"L'unità/volume che hai selezionato sembra essere un volume network o non locale. Sei avvisato del fatto che qualora la connessione al volume venga persa o comunque non disponibile, Amphetamine potrebbe non rispondere."

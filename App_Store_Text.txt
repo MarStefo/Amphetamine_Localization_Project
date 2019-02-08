@@ -1,70 +1,69 @@
-Welcome to Amphetamine 4, the most awesome keep-awake utility ever created for macOS. Amphetamine can keep your Mac, and optionally its display, awake through a super simple on/off switch, or automatically through easy-to-configure Triggers. Amphetamine is extremely powerful and includes advanced features for those who need them, yet remains super intuitive and simple to use for those who don't need all the bells and whistles.
+Benvenuto in Amphetamine 4, la più eccitante utility keep-awake mai creata per macOS. Amphetamine può tenere il tuo Mac e opzionalmente anche i monitor svegli tramite un semplicissimo clic on/off o configurarlo con una facilità disarmante tramite i Triggers. Amphetamine è estremamente potente e include funzionalità avanzate per coloro che lo necessitano, pur rimanendo ad un livello intuitivo e semplice per coloro che invece non hanno grandi pretese.
+
+=== Fai clic per mantenere il tuo Mac sveglio ===
+
+Avvia rapidamente una sessione dal menu di Amphetamine per tenere sveglio il tuo Mac.
+
+• Indefinitamente, per una quantità specifica di tempo o fino ad un certo orario
+• Mentre un file è in fase di scaricamento
+• Mentre una specifica applicazione è in esecuzione
 
 
-=== Click to Keep Your Mac Awake ===
+=== Automazione avanzata ===
 
-Quickly start a keep-awake session from Amphetamine's menu to keep your Mac awake.
+Crea un Trigger per mantenere sveglio il tuo Mac automaticamente. 
 
-• Indefinitely, for a specified amount of time, or until a specified time
-• While a file is downloading
-• While a specific app is running
-
-
-=== Advanced Automation ===
-
-Create a Trigger to automatically keep your Mac awake. 
-
-• While an external display is connected
-• While a USB or Bluetooth device is connected
-• While a specific app is running
-• While a specific app is running and frontmost
-• While your Mac's battery is charging and/or when the battery is above a threshold
-• While your Mac's AC power adapter is connected
-• While your Mac has a specific IP address
-• While your Mac is on a specific WiFi network
-• While your Mac is connected to a VPN service
-• While headphones or another audio output is in use
-• While a specific drive or volume is mounted
+• Mentre è collegato un monitor esterno
+• Mentre un dispositivo USB o Bluetooth è connesso
+• Mentre una specifica applicazione è in esecuzione
+• Mentre una specifica applicazione è in esecuzione e in primo piano 
+• Mentre la batteria del tuo Mac è in carica e/o quando la batteria è al di sopra di una soglia
+• Mentre l'adattatore di alimentazione CA del tuo Mac è collegato
+• Mentre il tuo Mac possiede uno specifico indirizzo IP
+• Mentre il tuo Mac è connesso ad uno specifico network Wi-Fi
+• Mentre il tuo Mac è connesso ad un servizio VPN
+• Mentre le cuffie o un altra uscita audio è in uso 
+• Mentre una specifica unità o volume è montato
 
 
-=== What's the Catch? ===
+=== Dov'è il trucco? ===
 
-No catch. Amphetamine is 100% free. It's a gift from me, to you. Enjoy!
+Nessun trucco. Amphetamine è 100% gratis. È un regalo da parte mia, per te. Goditelo!
 
-• No advertisements
-• No in-app purchases
-• Nothing to unlock/no "pro" version
-• No annoying prompts asking you to review Amphetamine
-• No links for other paid apps
-• No tracking
-• No data-harvesting
+• Nessuna pubblicità
+• Nessun acquisto in-app
+• Niente da sbloccare/nessuna versione "pro"
+• Nessun fastidioso suggerimento che ti chiede di recensire Amphetamine
+• Nessun link per altre app a pagamento
+• Nessun tracciamento
+• Nessuna raccolta di dati
  
 
-=== What Else Does Amphetamine Do? === 
+=== Cos'altro fa Amphetamine? === 
 
-Amphetamine is the most powerful and customizable keep-awake utility ever created for macOS. Some other notable features are:
+Amphetamine è l'utility keep-awake più potente e personalizzabile mai creata per macOS. Altre caratteristiche degne di nota sono:
 
-• Keep your drive awake with Drive Alive
-• AppleScript support
-• Use your own menu bar icons
-• Allow your display to sleep while keeping your Mac awake
-• Allow screen saver to run after a customizable period of inactivity
-• Optional session time remaining display in the menu (with 12/24 hour support)
-• Auto-end session if your Mac's battery is low
-• Hot key support for starting/ending sessions
+• Mantieni i dispositivi svegli tramite Drive Alive
+• Supporto AppleScript
+• Usa le tue icone per la barra dei menu
+• Consenti al monitor di andare in Stop mantenendo il tuo Mac sveglio
+• Consenti l'avvio del salvaschermo dopo un periodo di inattività personalizzabile
+• Visualizzare il tempo rimanente nella barra dei menu (con supporto 12/24 ore)
+• Termina automaticamente una sessione quando la carica della batteria è bassa
+• Supporto ai tasti di scelta rapida per iniziare o terminare una sessione
 
 
-=== System Requirements + Other Details === 
+=== Requisiti di sistema + Altri dettagli === 
 
-• Amphetamine requires macOS 10.11 El Capitan or higher
-• Amphetamine supports Retina displays and macOS dark mode.
-• To keep your Mac awake in closed-lid mode, see https://support.apple.com/HT201834
+• Amphetamine richiede macOS 10.11 El Capitan o superiore
+• Amphetamine supporta i display Retina e la Dark Mode di macOS.
+• Per mantenere sveglio il tuo Mac in modalità display chiuso, visita https://support.apple.com/HT201834
 
 
 
 ------------------
 APP STORE SUBTITLE:
-Powerful keep-awake utility
+Potente utilità keep-awake
 
 
 -----------------------
